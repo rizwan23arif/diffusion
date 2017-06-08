@@ -1,0 +1,190 @@
+
+ LENGTH = 1
+ max = 1
+ average diffusion for length 1 = 0.793, avg. number of bits that flip = 1.586
+ LENGTH = 2
+ max = 3
+ average diffusion for length 2 = 0.611, avg. number of bits that flip = 1.834
+ LENGTH = 3
+ max = 7
+ average diffusion for length 3 = 0.496, avg. number of bits that flip = 1.983
+ LENGTH = 4
+ max = 15
+ average diffusion for length 4 = 0.418, avg. number of bits that flip = 2.088
+ LENGTH = 5
+ max = 31
+ average diffusion for length 5 = 0.359, avg. number of bits that flip = 2.156
+ LENGTH = 6
+ max = 63
+ average diffusion for length 6 = 0.315, avg. number of bits that flip = 2.205
+ LENGTH = 7
+ max = 127
+ average diffusion for length 7 = 0.282, avg. number of bits that flip = 2.258
+ LENGTH = 8
+ max = 255
+ average diffusion for length 8 = 0.256, avg. number of bits that flip = 2.308
+ LENGTH = 9
+ max = 511
+ average diffusion for length 9 = 0.234, avg. number of bits that flip = 2.345
+ LENGTH = 10
+ max = 1023
+ average diffusion for length 10 = 0.215, avg. number of bits that flip = 2.363
+ LENGTH = 11
+ max = 2047
+ average diffusion for length 11 = 0.197, avg. number of bits that flip = 2.366
+ LENGTH = 12
+ max = 4095
+ average diffusion for length 12 = 0.186, avg. number of bits that flip = 2.415
+ LENGTH = 13
+ max = 8191
+ average diffusion for length 13 = 0.172, avg. number of bits that flip = 2.413
+ LENGTH = 14
+ max = 16383
+ average diffusion for length 14 = 0.162, avg. number of bits that flip = 2.425
+ LENGTH = 15
+ max = 32767
+ average diffusion for length 15 = 0.152, avg. number of bits that flip = 2.436
+ LENGTH = 16
+ max = 65535
+ average diffusion for length 16 = 0.144, avg. number of bits that flip = 2.440
+ LENGTH = 17
+ max = 131071
+ average diffusion for length 17 = 0.137, avg. number of bits that flip = 2.470
+ LENGTH = 18
+ max = 262143
+ average diffusion for length 18 = 0.130, avg. number of bits that flip = 2.463
+ LENGTH = 19
+ max = 524287
+ average diffusion for length 19 = 0.124, avg. number of bits that flip = 2.484
+ LENGTH = 20
+ max = 1048575
+ average diffusion for length 20 = 0.118, avg. number of bits that flip = 2.483
+ LENGTH = 21
+ max = 2097151
+ average diffusion for length 21 = 0.113, avg. number of bits that flip = 2.486
+ LENGTH = 22
+ max = 4194303
+ average diffusion for length 22 = 0.108, avg. number of bits that flip = 2.493
+ LENGTH = 23
+ max = 8388607
+ average diffusion for length 23 = 0.104, avg. number of bits that flip = 2.485
+ LENGTH = 24
+ max = 16777215
+ average diffusion for length 24 = 0.100, avg. number of bits that flip = 2.501
+ LENGTH = 25
+ max = 33554431
+ average diffusion for length 25 = 0.097, avg. number of bits that flip = 2.512
+ LENGTH = 26
+ max = 67108863
+ average diffusion for length 26 = 0.093, avg. number of bits that flip = 2.498
+ LENGTH = 27
+ max = 134217727
+ average diffusion for length 27 = 0.090, avg. number of bits that flip = 2.516
+ LENGTH = 28
+ max = 268435455
+ average diffusion for length 28 = 0.086, avg. number of bits that flip = 2.496
+ LENGTH = 29
+ max = 536870911
+ average diffusion for length 29 = 0.084, avg. number of bits that flip = 2.518
+ LENGTH = 30
+ max = 1073741823
+ average diffusion for length 30 = 0.081, avg. number of bits that flip = 2.515
+ LENGTH = 31
+ max = 2147483647
+ average diffusion for length 31 = 0.078, avg. number of bits that flip = 2.510
+ LENGTH = 32
+ max = 4294967295
+ average diffusion for length 32 = 0.076, avg. number of bits that flip = 2.518
+ LENGTH = 33
+ max = 8589934591
+ average diffusion for length 33 = 0.074, avg. number of bits that flip = 2.528
+ LENGTH = 34
+ max = 17179869183
+ average diffusion for length 34 = 0.073, avg. number of bits that flip = 2.538
+ LENGTH = 35
+ max = 34359738367
+ average diffusion for length 35 = 0.070, avg. number of bits that flip = 2.527
+ LENGTH = 36
+ max = 68719476735
+ average diffusion for length 36 = 0.068, avg. number of bits that flip = 2.525
+ LENGTH = 37
+ max = 137438953471
+ average diffusion for length 37 = 0.067, avg. number of bits that flip = 2.533
+ LENGTH = 38
+ max = 274877906943
+ average diffusion for length 38 = 0.065, avg. number of bits that flip = 2.535
+ LENGTH = 39
+ max = 549755813887
+ average diffusion for length 39 = 0.063, avg. number of bits that flip = 2.522
+ LENGTH = 40
+ max = 1099511627775
+ average diffusion for length 40 = 0.062, avg. number of bits that flip = 2.535
+ LENGTH = 41
+ max = 2199023255551
+ average diffusion for length 41 = 0.060, avg. number of bits that flip = 2.540
+ LENGTH = 42
+ max = 4398046511103
+ average diffusion for length 42 = 0.059, avg. number of bits that flip = 2.536
+ LENGTH = 43
+ max = 8796093022207
+ average diffusion for length 43 = 0.058, avg. number of bits that flip = 2.544
+ LENGTH = 44
+ max = 17592186044415
+ average diffusion for length 44 = 0.056, avg. number of bits that flip = 2.537
+ LENGTH = 45
+ max = 35184372088831
+ average diffusion for length 45 = 0.055, avg. number of bits that flip = 2.537
+ LENGTH = 46
+ max = 70368744177663
+ average diffusion for length 46 = 0.054, avg. number of bits that flip = 2.528
+ LENGTH = 47
+ max = 140737488355327
+ average diffusion for length 47 = 0.053, avg. number of bits that flip = 2.545
+ LENGTH = 48
+ max = 281474976710655
+ average diffusion for length 48 = 0.052, avg. number of bits that flip = 2.553
+ LENGTH = 49
+ max = 562949953421311
+ average diffusion for length 49 = 0.051, avg. number of bits that flip = 2.545
+ LENGTH = 50
+ max = 1125899906842623
+ average diffusion for length 50 = 0.050, avg. number of bits that flip = 2.547
+ LENGTH = 51
+ max = 2251799813685247
+ average diffusion for length 51 = 0.049, avg. number of bits that flip = 2.543
+ LENGTH = 52
+ max = 4503599627370495
+ average diffusion for length 52 = 0.048, avg. number of bits that flip = 2.547
+ LENGTH = 53
+ max = 9007199254740991
+ average diffusion for length 53 = 0.047, avg. number of bits that flip = 2.549
+ LENGTH = 54
+ max = 18014398509481983
+ average diffusion for length 54 = 0.046, avg. number of bits that flip = 2.551
+ LENGTH = 55
+ max = 36028797018963967
+ average diffusion for length 55 = 0.046, avg. number of bits that flip = 2.553
+ LENGTH = 56
+ max = 72057594037927935
+ average diffusion for length 56 = 0.045, avg. number of bits that flip = 2.546
+ LENGTH = 57
+ max = 144115188075855871
+ average diffusion for length 57 = 0.044, avg. number of bits that flip = 2.563
+ LENGTH = 58
+ max = 288230376151711743
+ average diffusion for length 58 = 0.043, avg. number of bits that flip = 2.564
+ LENGTH = 59
+ max = 576460752303423487
+ average diffusion for length 59 = 0.043, avg. number of bits that flip = 2.557
+ LENGTH = 60
+ max = 1152921504606846975
+ average diffusion for length 60 = 0.042, avg. number of bits that flip = 2.532
+ LENGTH = 61
+ max = 2305843009213693951
+ average diffusion for length 61 = 0.041, avg. number of bits that flip = 2.531
+ LENGTH = 62
+ max = 4611686018427387903
+ average diffusion for length 62 = 0.041, avg. number of bits that flip = 2.558
+ LENGTH = 63
+ max = 9223372036854775807
+ average diffusion for length 63 = 0.040, avg. number of bits that flip = 2.561
